@@ -3,6 +3,8 @@ Text to ascii art converter
 
 ## Usage
 
+Downlaod executable [here](https://github.com/Josakko/TextToAscii/releases/tag/exe).
+
 Ascii made using this program is shown down below
 
                _                 _    _         
