@@ -3,6 +3,8 @@ Text to ascii art converter
 
 ## Usage
 
+Ascii made using this program is shown down below
+
          _                 _    _         
         | | ___  ___  __ _| | _| | _____  
      _  | |/ _ \/ __|/ _` | |/ / |/ / _ \ 
