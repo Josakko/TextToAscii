@@ -12,7 +12,7 @@ Text to ascii art converter
 ### Screenshot
 
 <p align="center">
-  <img alt="issue" src="https://github.com/Josakko/TextToAscii/blob/main/image.png?raw=true" width="1000px">
+  <img alt="issue" src="https://github.com/Josakko/TextToAscii/blob/main/image.png?raw=true" width="600px">
 </p>
 
 ## Need Help?
